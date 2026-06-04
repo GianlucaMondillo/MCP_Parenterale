@@ -4,7 +4,7 @@ MCP server per il calcolo della nutrizione parenterale neonatale, progettato per
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo.mp4
+[https://github.com/user-attachments/assets/demo.mp4](https://github.com/user-attachments/assets/4fe0158e-2734-47a0-a968-be2c8e0aa8e6)
 
 ## Funzionalita
 
